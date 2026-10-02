@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/5b9bd09e883704b620c37b8c008274b7bc4e32f7e36f4c76cfb5e936b10272b9/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34362f5265636f72645f4e6577735f6c6f676f5f323032332e737667",ZECA TV - Record News
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Record_News_Logo_2023.png/960px-Record_News_Logo_2023.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20260116004808",ZECA TV - Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1,ZECA TV - TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8

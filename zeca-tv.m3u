@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Record_News_Marca.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20080311211816" group-title="Canais Abertos",ZECA TV - Record News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Record_News_Marca.JPG" group-title="Canais Abertos",ZECA TV - Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Novatvbrasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20190410180954" group-title="Canais Abertos",ZECA TV - TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8

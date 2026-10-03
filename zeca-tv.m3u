@@ -1,7 +1,7 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml"
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Record_News_Marca.JPG" group-title="Canais Abertos",ZECA TV - Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Novatvbrasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20190410180954" group-title="Canais Abertos",ZECA TV - TV Brasil
+#EXTINF:-1 tvg-id="TV BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Novatvbrasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20190410180954" group-title="Canais Abertos",ZECA TV - TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/TV_Cultura_logo.png/960px-TV_Cultura_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20260124061205" group-title="Canais Abertos",ZECA TV - TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8

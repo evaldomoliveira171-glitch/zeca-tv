@@ -7,3 +7,5 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/16a4ed91b60a3a84e0940a1455340c115e2640b412788d70ea3a5ef4b3c01fb7/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63322f4c6f676f7469706f5f64615f5456455f52532e706e67" group-title="Canais Abertos",ZECA TV - TVE
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalUOL.br@SD" tvg-logo="https://conteudo.imguol.com.br/c/play/logo_canaluol_2024.svg" group-title="Canais Abertos",ZECA TV - Canal UOL
+https://video24.mais.uol.com.br/live/6146.m3u8

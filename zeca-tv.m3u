@@ -13,5 +13,5 @@ https://video24.mais.uol.com.br/live/6146.m3u8
 http://181.78.197.59:8000/play/a07z/index.m3u8
 #EXTINF:-1 tvg-id="ESPN4.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Sports",ZECA TV - CANAL ESPN 4 
 http://181.78.197.59:8000/play/a07n/index.m3u8
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/ccq9oobd5/Spor_TV2.png SporTV 2" group-title="",SPORTV 2
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/ccq9oobd5/Spor_TV2.png SporTV 2" group-title="Sports",SPORTV 2
 http://5.79.68.138:8081/look/sportv2/playlist.m3u8
